@@ -1,4 +1,4 @@
-                                                             # Hi, I'm John Wanderi 👋
+                                                         <b> # Hi, I'm John Wanderi 👋</b>
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00FFCC&secondaryColor=00FF00&height=200&section=header&text=john-012&fontSize=70&animation=fadeIn&fontColor=ffffff)
 
 ### 🎓 Computer Science Student | Full-Stack Developer | Cyber Security Aspirant
